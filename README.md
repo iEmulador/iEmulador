@@ -1,2 +1,0 @@
-# iEmulador
-iEmulator Development PTBR
